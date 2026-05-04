@@ -8,7 +8,7 @@ This privacy policy applies to the **HearChinese** application (hereby referred 
 The Application itself does not require registration and does not directly obtain or store any personally identifiable information from you. 
 
 However, the Application uses third-party services that may collect information used to identify you.
-*   **AdMob:** Used to display advertisements. AdMob may collect and process identifiers (such as the Android Advertising ID) and performance data to provide personalized ads and analytics[cite: 1, 2].
+*   **AdMob:** Used to display advertisements. AdMob may collect and process identifiers (such as the Android Advertising ID) and performance data to provide personalized ads and analytics.
 
 ### 2. Audio and Voice Data
 The Application includes a voice recording feature to assist in learning Chinese tones. 
